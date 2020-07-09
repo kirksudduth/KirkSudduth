@@ -259,7 +259,7 @@ a:hover {
   border-radius: 50%;
   line-height: 1.55;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   /* box-shadow: 0 0 0 2px #0078ff; */
   display: block;
 }
