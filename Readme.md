@@ -1,6 +1,7 @@
 #### Kirk Sudduth
 
 > "Failure is success in progress." - Albert Einstein
+>
 > "I need to improve my failing." - Me
 
 Thanks for downloading this theme!
